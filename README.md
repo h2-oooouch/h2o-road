@@ -2,6 +2,12 @@
 Water, Water, Everywhere
 
 Our team H2 Oooouch!
+Members:
+- https://github.com/orgs/h2-oooouch/people/FerAguate
+- https://github.com/orgs/h2-oooouch/people/marcoscabral
+- https://github.com/orgs/h2-oooouch/people/MikelMN
+- https://github.com/orgs/h2-oooouch/people/pombero
+
 We took part of the Space Apps Challenge, location Córdoba, Argentina. https://2017.spaceappschallenge.org/locations/cordoba-argentina
 
 Link to Space Apps Challenge project H2O-ROAD https://2017.spaceappschallenge.org/challenges/planetary-blues/water-water-everywhere/teams/h2-oooouch/project
