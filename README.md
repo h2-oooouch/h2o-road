@@ -3,10 +3,10 @@ Water, Water, Everywhere
 
 Our team H2 Oooouch!
 Members:
-- https://github.com/orgs/h2-oooouch/people/FerAguate
-- https://github.com/orgs/h2-oooouch/people/marcoscabral
-- https://github.com/orgs/h2-oooouch/people/MikelMN
-- https://github.com/orgs/h2-oooouch/people/pombero
+- https://github.com/FerAguate
+- https://github.com/marcoscabral
+- https://github.com/MikelMN
+- https://github.com/pombero
 
 We took part of the Space Apps Challenge, location Córdoba, Argentina. https://2017.spaceappschallenge.org/locations/cordoba-argentina
 
