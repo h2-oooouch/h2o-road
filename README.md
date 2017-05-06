@@ -8,8 +8,9 @@ Water, Water, Everywhere
 <img id="fb" src="/Images/h2ouch.jpg?raw=true" alt="H2O oooouch team" style="float: left;position: absolute;display: inline;width: 50px;bottom: 0;right: 0;">
 </div>
 
-Our team H2 Oooouch!
-# Members:
+
+# Our team's members:
+- Pablo Javier Zader
 - https://github.com/FerAguate
 - https://github.com/marcoscabral
 - https://github.com/MikelMN
