@@ -32,4 +32,8 @@ Develop a tool that provides emergency management personnel with an up-to-date f
 
 H2O-ROAD is aimed to provide predictions of future flooding events to avoid affected roads.
 
-Nowadays flooding events on the north Pampas (in central Argentina) are becoming more frequent. This is a populated area and the more important economic activity is agriculture. Flooding damage agricultural activities and generates road closure, rendering entire towns isolated. Remote sensing provides an interesting opportunity to mitigate the effects of flooding, redirecting resources to prevent hazards. 
+Nowadays flooding events on the north Pampas (in central Argentina) are becoming more frequent. This is a populated area and the more important economic activity is agriculture. Flooding damage agricultural activities and generates road closure, rendering entire towns isolated. Remote sensing provides an interesting opportunity to mitigate the effects of flooding, redirecting resources to prevent hazards.
+
+<img src="https://api-2017.spaceappschallenge.org/stream-images/HODBefYp3-CdM8Hyjyh1hqXnxys=/2375/width-800/" alt="flooding-zone">
+
+<img src="https://api-2017.spaceappschallenge.org/stream-images/J_NIwK5G05Y_Mc92vSsUhXzghBw=/2367/width-800/" alt="routing">
