@@ -5,7 +5,7 @@ Water, Water, Everywhere
   <img src="https://api-2017.spaceappschallenge.org/images/9kJhqtWb5iJO0ysla1Fqzs8EWok=/92/fill-400x300/" alt="spaceappschallenge">
 </a>
 
-![Alt text](/blob/master/Images/h2ouch.jpg?raw=true "H2O oooouch team")
+![Alt text](/Images/h2ouch.jpg?raw=true "H2O oooouch team")
 
 Our team H2 Oooouch!
 # Members:
