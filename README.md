@@ -1,7 +1,7 @@
 # h2o-road
 Water, Water, Everywhere
 
-<a href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/">
+<a target="_blank" href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/">
   <img src="https://api-2017.spaceappschallenge.org/images/9kJhqtWb5iJO0ysla1Fqzs8EWok=/92/fill-400x300/" alt="spaceappschallenge">
 </a>
 
