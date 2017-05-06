@@ -1,7 +1,9 @@
 # h2o-road
 Water, Water, Everywhere
 
-![alt text](https://api-2017.spaceappschallenge.org/images/9kJhqtWb5iJO0ysla1Fqzs8EWok=/92/fill-400x300/)
+<p align="center">
+  <img src="https://api-2017.spaceappschallenge.org/images/9kJhqtWb5iJO0ysla1Fqzs8EWok=/92/fill-400x300/"/>
+</p>
 
 Our team H2 Oooouch!
 Members:
