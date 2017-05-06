@@ -6,7 +6,7 @@ Water, Water, Everywhere
 </a>
 
 Our team H2 Oooouch!
-Members:
+# Members:
 - https://github.com/FerAguate
 - https://github.com/marcoscabral
 - https://github.com/MikelMN
@@ -18,11 +18,11 @@ Link to Space Apps Challenge project H2O-ROAD https://2017.spaceappschallenge.or
 
 H2 Oooouch! has received the following awards and nominations: Global Nominee. We are very grateful to the organizers.
 
-The Challenge | Water, Water, Everywhere!
+# The Challenge | Water, Water, Everywhere!
 
 Develop a tool that provides emergency management personnel with an up-to-date flood-risk map for an area of interest.
 
-Goal:
+# Goal:
 
 H2O-ROAD is aimed to provide predictions of future flooding events to avoid affected roads.
 
