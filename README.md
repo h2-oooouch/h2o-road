@@ -1,4 +1,4 @@
-# h2o-road
+# H2O-ROAD
 Water, Water, Everywhere
 
 <a target="_blank" href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/">
