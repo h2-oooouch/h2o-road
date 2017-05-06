@@ -1,11 +1,11 @@
 # H2O-ROAD
 Water, Water, Everywhere
 
-<div id="top" style="height: 58px;margin: 0;padding: 10px 0;position: relative;">
-<a id="logo" target="_blank" href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/" style="bottom: 0;display: inline;left: 0;position: absolute;">
+<div style="height: 58px;margin: 0;padding: 10px 0;position: relative;">
+<a target="_blank" href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/" style="bottom: 0;display: inline;left: 0;position: absolute;">
   <img src="https://api-2017.spaceappschallenge.org/images/9kJhqtWb5iJO0ysla1Fqzs8EWok=/92/fill-400x300/" alt="spaceappschallenge">
 </a>
-<img id="fb" src="/Images/h2ouch.jpg?raw=true" alt="H2O oooouch team" style="float: left;position: absolute;display: inline;width: 50px;bottom: 0;right: 0;">
+<img src="/Images/h2ouch.jpg?raw=true" alt="H2O oooouch team" style="float: left;position: absolute;display: inline;width: 50px;bottom: 0;right: 0;">
 </div>
 
 
@@ -25,6 +25,8 @@ H2 Oooouch! has received the following awards and nominations: Global Nominee. W
 # The Challenge | Water, Water, Everywhere!
 
 Develop a tool that provides emergency management personnel with an up-to-date flood-risk map for an area of interest.
+
+<img src="https://api-2017.spaceappschallenge.org/team-photos/T-7v6K61xS39k-JB3c2LbLhhQ0c=/3788/width-800/" alt="flood">
 
 # Goal:
 
