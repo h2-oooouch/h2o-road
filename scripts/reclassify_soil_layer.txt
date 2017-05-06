@@ -1,0 +1,9 @@
+CASE
+WHEN "ggru_1d" = 'Haplustol' THEN 1
+WHEN "ggru_1d" = 'Hapludol' THEN 2
+WHEN "ggru_1d" = 'Natralbol' THEN 3
+WHEN "ggru_1d" = null THEN 3.5
+WHEN "ggru_1d" = 'Argiudol' THEN 4
+WHEN "ggru_1d" = 'Natracualf' THEN 5
+WHEN "ggru_1d" = 'Albacualf' THEN 6
+END

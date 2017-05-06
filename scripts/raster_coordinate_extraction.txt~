@@ -1,0 +1,8 @@
+Extraccion de valores de pixeles a partir de capa vectorial de puntos
+Implementado en GRASS GIS.
+Caso: DEM (Digital Elevation Model)
+Point: Capa vectorial de puntos de muestreo 
+r.in.gdal map=path/to/dem.tif output=dem
+v.in.ogr input=path/to/puntos.shp output=puntos
+r.what map=dem points=puntos > out_dem.txt
+
