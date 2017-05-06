@@ -1,11 +1,12 @@
 # H2O-ROAD
 Water, Water, Everywhere
 
-<a target="_blank" href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/">
+<div id="top" style="height: 58px;margin: 0;padding: 10px 0;position: relative;">
+<a id="logo" target="_blank" href="https://2017.spaceappschallenge.org/locations/cordoba-argentina/" style="bottom: 0;display: inline;left: 0;position: absolute;">
   <img src="https://api-2017.spaceappschallenge.org/images/9kJhqtWb5iJO0ysla1Fqzs8EWok=/92/fill-400x300/" alt="spaceappschallenge">
 </a>
-
-![Alt text](/Images/h2ouch.jpg?raw=true "H2O oooouch team")
+<img id="fb" src="/Images/h2ouch.jpg?raw=true" alt="H2O oooouch team" style="float: left;position: absolute;display: inline;width: 50px;bottom: 0;right: 0;">
+</div>
 
 Our team H2 Oooouch!
 # Members:
